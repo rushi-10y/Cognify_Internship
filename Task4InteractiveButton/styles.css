@@ -1,0 +1,61 @@
+/* General Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  /* Body Styles */
+  body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #f9f9f9;
+    color: #333;
+    transition: background-color 0.3s ease;
+  }
+  
+  /* Header Styles */
+  .header {
+    background-color: #0073e6;
+    color: white;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  /* Main Content Styles */
+  .main-content {
+    padding: 20px;
+    max-width: 800px;
+    margin: auto;
+    text-align: center;
+  }
+  
+  /* Interactive Button Styles */
+  .interactive-button {
+    background-color: #0073e6;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+  }
+  
+  .interactive-button:hover {
+    background-color: #005bb5;
+    transform: scale(1.1);
+  }
+  
+  .interactive-button:active {
+    transform: scale(1);
+  }
+  
+  /* Footer Styles */
+  .footer {
+    text-align: center;
+    background-color: #f1f1f1;
+    padding: 10px;
+    color: #555;
+  }
+  
