@@ -1,4 +1,4 @@
-# 💼 Rushikesh Internship Tasks
+# 💼 Cognify_Internship Tasks
 
 This repository contains a collection of front-end web development tasks completed during my internship. Each task demonstrates a key aspect of modern web development — from creating basic HTML pages to building responsive designs and interactive interfaces with JavaScript.
 
